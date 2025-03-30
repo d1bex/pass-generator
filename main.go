@@ -67,5 +67,5 @@ func main() {
 		return
 	}
 
-	fmt.Println("Password successfully copied to clipboard!")
+	fmt.Println("Password successfully copied to clipboard! Remember to store in your favorite password manager.")
 }
